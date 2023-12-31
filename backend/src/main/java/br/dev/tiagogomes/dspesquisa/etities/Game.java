@@ -1,6 +1,7 @@
 package br.dev.tiagogomes.dspesquisa.etities;
 
 import br.dev.tiagogomes.dspesquisa.etities.enums.Platform;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
 import java.io.Serial;
